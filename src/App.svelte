@@ -34,7 +34,7 @@
 
 <main>
 <Nav/>
-<section id="home" class=" w-full h-screen flex justify-center gap-5 items-center bg-[url(./night.jpg)] bg-cover bg-center bg-no-repeat bg-fixed flex-wrap pl-3 pr-3">
+<section id="home" class=" w-full h-screen flex justify-center gap-5 items-center bg-[url(https://images.unsplash.com/photo-1513048197391-42d4807f6a4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmFsaSUyMG5pZ2h0fGVufDB8fDB8fHww)] bg-cover bg-center bg-no-repeat bg-fixed flex-wrap pl-3 pr-3">
   <img data-aos="fade-right" src="./profil.jpeg" alt="" class=" h-auto w-72 rounded-md cursor-pointer">
   <div class=" h-[200px]">
     <h1 data-aos="fade-left" class="text-3xl font-bold text-white flex">
